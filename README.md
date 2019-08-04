@@ -6,7 +6,10 @@ Automação de Teste Sistema de Gerenciamento de Heróis, este teste contempla C
 - API
 
 Acesso para download do Relatório de Teste Automatizados 
+HTML
 https://drive.google.com/file/d/1LyaSnJVTMvgs84cS33s6DsJI1W3hrapv/view?usp=sharing
+PDF
+https://drive.google.com/file/d/1OdPpyju3Q59bPDPAud-ZYE69Zy-Gd512/view?usp=sharing
 
 Doc Teste Exploratório
 
